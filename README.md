@@ -102,4 +102,4 @@ https://e-commerce-auraa.netlify.app/
 
 ---
 
-⭐ *Always learning, always building.*
+⭐ *Always learning, always building..*
