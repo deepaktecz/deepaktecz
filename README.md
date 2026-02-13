@@ -14,8 +14,8 @@ Currently focusing on frontend development and gradually moving towards full sta
 
 - 🌱 Learning **JavaScript & Full Stack Development**
 - 🛠️ Building practical projects to improve real skills
-- 🤝 Interested in **MLH, Hackathons & Open Source**
-- 📖 Believe in *learning by doing*
+- 🤝 Interested in **Hackathons & Open Source**
+- 📖 Believe in **learning by doing**
 
 ---
 
