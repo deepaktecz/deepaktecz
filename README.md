@@ -76,18 +76,10 @@ Responsive e-commerce interface with product listings and cart functionality.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepaktecz&show_icons=true" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
-* 💻 GitHub: https://github.com/deepaktecz
-* 💼 LinkedIn: https://www.linkedin.com/in/deepaktecz
+* 💻 PortFolio: https://samar-agneev.github.io/WebNova
+* 💼 LinkedIn: https://www.linkedin.com/in/samaragneev
 
 ---
 
