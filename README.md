@@ -57,7 +57,7 @@ Responsive portfolio website showcasing skills and projects.
 * CSS
 * JavaScript
 
-🔗 https://deepaktecz.github.io/WebNova/
+🔗 https://samar-agneev.github.io/WebNova
 
 ---
 
