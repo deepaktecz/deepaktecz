@@ -1,105 +1,94 @@
-<h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
-<h3 align="center">Aspiring Full Stack Developer | Open Source & Hackathon Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Samar Agneev</h1>
+<h3 align="center">Cybersecurity Enthusiast | Ethical Hacking | Web Security | Linux | Python</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deepaktecz&label=Profile%20views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=deepaktecz&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I’m a passionate developer who loves learning by building real-world projects.  
-Currently focusing on frontend development and gradually moving towards full stack.
+Dedicated to cybersecurity, ethical hacking, and digital security. Passionate about understanding system vulnerabilities, securing web applications, and continuously expanding technical expertise in offensive and defensive security practices.
 
-- 🌱 Learning **JavaScript & Full Stack Development**
-- 🛠️ Building practical projects to improve real skills
-- 🤝 Interested in **Hackathons & Open Source**
-- 📖 Believe in **learning by doing**
-
----
-
-## 🧠 Skills & Technologies
-
-### Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Responsive Web Design
-
-### Backend (Learning Phase)
-- Node.js (Basics)
-- Express.js (Basics)
-
-### Tools
-- Git & GitHub
-- VS Code
-- Chrome DevTools
+* 🔐 Focused on Cybersecurity & Ethical Hacking
+* 🌐 Learning Web Application Security
+* 🐧 Working with Linux Environments
+* 🐍 Developing Security Skills with Python
+* 📚 Continuously Exploring Modern Security Technologies
 
 ---
 
-## 🧪 Real Projects
+## 🛠️ Technical Skills
 
-### 🔹 WebNova – Personal Portfolio Website
-A clean and responsive personal portfolio website to showcase my skills, projects, and contact information.
+### Cybersecurity
 
-**Tech Stack:**  
-- HTML  
-- CSS  
-- JavaScript  
+* Web Application Security
+* Network Security
+* Vulnerability Assessment
+* Security Fundamentals
+* Ethical Hacking
 
-🔗 Repository:  
-https://deepaktecz.github.io/WebNova/
+### Programming
 
----
+* Python
+* JavaScript
+* HTML5
+* CSS3
 
-### 🔹 E-Commerce Website
-A mobile-responsive e-commerce website with product listing, cart UI, and order confirmation pages.
+### Tools & Platforms
 
-**Features:**  
-- Product listing  
-- Cart layout  
-- Order confirmation UI  
-
-**Tech Stack:**  
-- HTML  
-- CSS  
-- JavaScript  
-- jQuery  
-
-🔗 Repository:  
-https://e-commerce-auraa.netlify.app/
+* Linux
+* Git & GitHub
+* VS Code
+* Chrome DevTools
 
 ---
 
-## 🌍 Open Source & Community
+## 🚀 Projects
 
-- Exploring open-source projects
-- Learning how to read and understand existing codebases
-- Interested in contributing to beginner-friendly repositories
-- Preparing for **MLH programs & hackathons**
+### WebNova – Personal Portfolio
+
+Responsive portfolio website showcasing skills and projects.
+
+**Tech Stack**
+
+* HTML
+* CSS
+* JavaScript
+
+🔗 https://deepaktecz.github.io/WebNova/
+
+---
+
+### E-Commerce Website
+
+Responsive e-commerce interface with product listings and cart functionality.
+
+**Tech Stack**
+
+* HTML
+* CSS
+* JavaScript
+* jQuery
+
+🔗 https://e-commerce-auraa.netlify.app/
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepaktecz&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deepaktecz&show_icons=true" />
 </p>
 
 ---
 
-## 🔗 Contact & Links
+## 📫 Connect With Me
 
-- 🌐 **Portfolio Website:**  
-  https://deepaktecz.github.io/WebNova/
-
-- 💻 **GitHub:**  
-  https://github.com/deepaktecz
-
-- 💼 **LinkedIn:**  
-  https://www.linkedin.com/in/deepaktecz
+* 💻 GitHub: https://github.com/deepaktecz
+* 💼 LinkedIn: https://www.linkedin.com/in/deepaktecz
 
 ---
 
-⭐ **Always learning, always building.**
+⭐ Securing Systems • Learning Continuously • Building the Future
